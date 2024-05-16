@@ -1,0 +1,28 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "Barbie in the Nutcracker",
+        "releaseDate": "October 2, 2001",
+        "length": 76
+      },
+      {
+        "id": 2,
+        "name": "Barbie as Rapunzel",
+        "releaseDate": "October 1, 2002",
+        "length": 84
+      },
+      {
+        "id": 3,
+        "name": "Barbie of Swan Lake",
+        "releaseDate": "September 30, 2003",
+        "length": 81
+      },
+      {
+        "id": 4,
+        "name": "Barbie as the Princess and the Pauper",
+        "releaseDate": "September 28, 2004",
+        "length": 85
+      }
+    ]
+  }
