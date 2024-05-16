@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;    
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'barbieFont';
+    src: url('./assets/Bartex.ttf');
+}
+
+body {
+    background-color: #ffe5ec;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
