@@ -3,24 +3,28 @@
       {
         "id": 1,
         "name": "Barbie in the Nutcracker",
+        "picture": "https://static.wikia.nocookie.net/barbie-movies/images/c/c5/1-poster-bmw.jpg/revision/latest?cb=20201129102739",
         "releaseDate": "October 2, 2001",
         "length": 76
       },
       {
         "id": 2,
         "name": "Barbie as Rapunzel",
+        "picture": "https://static.wikia.nocookie.net/barbie-movies/images/5/5b/Barbie_as_Rapunzel_DVD_cover_2002.jpg/revision/latest?cb=20230610165023",
         "releaseDate": "October 1, 2002",
         "length": 84
       },
       {
         "id": 3,
         "name": "Barbie of Swan Lake",
+        "picture": "https://static.wikia.nocookie.net/barbie-movies/images/1/14/3-poster-bmw.jpg/revision/latest?cb=20201129103013",
         "releaseDate": "September 30, 2003",
         "length": 81
       },
       {
         "id": 4,
         "name": "Barbie as the Princess and the Pauper",
+        "picture": "https://static.wikia.nocookie.net/barbie-movies/images/5/57/Barbie_as_The_Princess_and_the_Pauper.jpg/revision/latest?cb=20100912173312",
         "releaseDate": "September 28, 2004",
         "length": 85
       }
